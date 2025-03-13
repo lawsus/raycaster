@@ -1,0 +1,7 @@
+/out
+*.o
+raycaster
+.vscode
+notes.md
+.DS_Store
+.gitattributes
