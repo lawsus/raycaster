@@ -1,4 +1,4 @@
 # References
 
 ## Raycasting
-    - https://github.com/ssloy/tinyraycaster
+- https://github.com/ssloy/tinyraycaster
